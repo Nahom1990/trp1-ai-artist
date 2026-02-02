@@ -69,8 +69,9 @@ The project architecture utilizes a **Provider Factory Pattern**. The core orche
 * **Problem:** Hit a `RESOURCE_EXHAUSTED` error on the experimental Veo endpoint.
 * **Insight:** Verified that quota is bound to the Project ID; rotating API keys within the same project does not bypass daily limits.
 * **Workaround:** Implemented a failover path to Kling AI to maintain development momentum during primary provider throttling.
-![Alt text](trp1-ai-artist\image.png)
-![Alt text](trp1-ai-artist\cl_bug.png)
+![Alt text](image.png)
+
+![Alt text](cl_bug.png)
 ---
 
 ## 💡 Insights & Learnings
