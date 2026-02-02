@@ -5,6 +5,8 @@
 
 ---
 
+
+
 ## 🛠️ Environment Setup Documentation
 
 ### APIs Configured
@@ -82,7 +84,11 @@ The project architecture utilizes a **Provider Factory Pattern**. The core orche
 * **Comparison:** Google’s Veo 3.1 offers superior cinematic control compared to competitors, but demands more rigorous engineering regarding SDK version synchronization.
 
 ---
+## Generated Files
+* **music generated:** can be found in the exports folder
+* **Lyrics Generated:** can be found in song.txt file
+
 
 ## 🔗 Links
 * **GitHub Repo:** [https://github.com/Nahom1990/trp1-ai-artist]
-* **Technical Walkthrough:** [Insert Your YouTube/Loom Link Here]
+* **Technical Walkthrough:** []
