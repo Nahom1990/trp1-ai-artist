@@ -84,5 +84,5 @@ The project architecture utilizes a **Provider Factory Pattern**. The core orche
 ---
 
 ## 🔗 Links
-* **GitHub Repo:** [Insert Your GitHub Link Here]
+* **GitHub Repo:** [https://github.com/Nahom1990/trp1-ai-artist]
 * **Technical Walkthrough:** [Insert Your YouTube/Loom Link Here]
